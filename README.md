@@ -1,0 +1,1 @@
+# HotelsSingapore_SampleSite_CA
