@@ -1,1 +1,1 @@
-# HotelsSingapore_SampleSite_CA
+# hotels-singapore-website
